@@ -1,1 +1,2 @@
-# SnakeGameUsingC-
+# SnakeGameUsingC#
+The snake can move in any direction, but it cannot move through its own body. The goal is to make the snake as long as possible without crashing into its own body.As well as snake can become as long as possible by eating food, the size is totally depend on the food taken by the snake.Once it touches its own body the game comes to end and it displays the length of the snake.Games are always iteresting it mainly depends on the how player plays,the players can play the game with the help of  keys of the computer keyboard.
